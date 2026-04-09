@@ -1,7 +1,7 @@
 import Navbar from "@/src/components/Navbar";
 import Hero from "@/src/components/Hero";
 import Services from "@/src/components/Services";
-import About from "@/src/components/About";
+import HomeAbout from "@/src/components/HomeAbout";
 import Areas from "@/src/components/Areas";
 import Reviews from "@/src/components/Reviews";
 import Contact from "@/src/components/Contact";
@@ -13,7 +13,7 @@ export default function HomePage() {
       <Navbar />
       <main className="flex-grow">
         <Hero />
-        <About />
+        <HomeAbout />
         <Services />
         <Reviews />
         <Areas />
