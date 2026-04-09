@@ -10,7 +10,7 @@ export default function ContactPage() {
         <ServiceHero 
           title="Contact Us" 
           description="Ready for a free estimate? Get in touch with our expert team today." 
-          image="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=2069" 
+          image="/contact%20new.jpg" 
         />
         <Contact />
       </main>

@@ -38,13 +38,12 @@ export default function Navbar() {
       }`}
     >
       <div className="container mx-auto px-4 flex items-center justify-between">
-        <Link to="/" className="flex flex-col">
-          <span className={`font-heading font-extrabold text-xl md:text-2xl leading-none ${isScrolled || !isHomePage ? "text-primary" : "text-white"}`}>
-            SEAMLESS GUTTERS
-          </span>
-          <span className={`font-heading font-bold text-lg md:text-xl leading-none ${isScrolled || !isHomePage ? "text-secondary" : "text-secondary"}`}>
-            4 LESS
-          </span>
+        <Link to="/" className="flex items-center">
+          <img
+            src="/Logo.png"
+            alt="Seamless Gutters 4 Less"
+            className="h-12 md:h-14 w-auto object-contain"
+          />
         </Link>
 
         {/* Desktop Nav */}

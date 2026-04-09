@@ -25,7 +25,7 @@ export const SERVICES = [
     ],
     icon: "Droplets",
     primary: true,
-    image: "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=2069",
+    image: "/gutterinstall.jpg",
   },
   {
     slug: "gutter-repair",
@@ -40,7 +40,7 @@ export const SERVICES = [
       "Structural reinforcement"
     ],
     icon: "Wrench",
-    image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=80&w=1000",
+    image: "/gutters4.jpg",
   },
   {
     slug: "gutter-replacement",
@@ -55,7 +55,7 @@ export const SERVICES = [
       "Increased property value"
     ],
     icon: "RefreshCw",
-    image: "https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?auto=format&fit=crop&q=80&w=2000",
+    image: "/gutters8.jpg",
   },
   {
     slug: "soffit-fascia-repair",
@@ -70,7 +70,7 @@ export const SERVICES = [
       "Paint-ready finishes"
     ],
     icon: "Home",
-    image: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=2000",
+    image: "/gutters19.jpg",
   },
   {
     slug: "gutter-cleaning",
@@ -85,7 +85,7 @@ export const SERVICES = [
       "Safe and efficient service"
     ],
     icon: "Wind",
-    image: "https://images.unsplash.com/photo-1595841696677-6489ff3f8cd1?auto=format&fit=crop&q=80&w=2000",
+    image: "/gutters3.jpg",
   },
   {
     slug: "gutter-guards",
@@ -100,7 +100,7 @@ export const SERVICES = [
       "Reduces maintenance by 90%"
     ],
     icon: "ShieldCheck",
-    image: "https://images.unsplash.com/photo-1505798577917-a65157d3320a?auto=format&fit=crop&q=80&w=2000",
+    image: "/gutterguard.jpg",
   },
 ];
 

@@ -11,7 +11,7 @@ export default function AboutPage() {
         <ServiceHero 
           title="About Us" 
           description="Over 30 years of excellence in gutter installation and repair across the Puget Sound." 
-          image="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=80&w=1000" 
+          image="/gutters9.jpg" 
         />
         <About />
       </main>

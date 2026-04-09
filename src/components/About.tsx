@@ -25,10 +25,9 @@ export default function About() {
               className="relative z-10"
             >
               <img
-                src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=80&w=1000"
-                alt="Gutter installation professional"
+                src="/gutters5.jpg"
+                alt="Seamless Gutters 4 Less company truck"
                 className="rounded-3xl shadow-2xl"
-                referrerPolicy="no-referrer"
               />
               <div className="absolute -bottom-10 -right-10 bg-primary text-white p-8 rounded-3xl shadow-xl hidden md:block">
                 <span className="block text-5xl font-bold mb-1">30+</span>

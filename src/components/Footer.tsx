@@ -11,12 +11,11 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           <div className="lg:col-span-1">
             <div className="flex flex-col mb-6">
-              <span className="font-heading font-extrabold text-2xl leading-none text-white">
-                SEAMLESS GUTTERS
-              </span>
-              <span className="font-heading font-bold text-xl leading-none text-secondary">
-                4 LESS
-              </span>
+              <img
+                src="/Logo.png"
+                alt="Seamless Gutters 4 Less"
+                className="h-14 w-auto object-contain"
+              />
             </div>
             <p className="text-slate-400 mb-6 leading-relaxed">
               Your top local choice for all gutter services in the Puget Sound area. 
